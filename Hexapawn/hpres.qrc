@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/hp">
+        <file>images/black.png</file>
+        <file>images/blank.png</file>
+        <file>images/white.png</file>
+    </qresource>
+</RCC>

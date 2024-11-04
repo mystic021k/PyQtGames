@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/ttt">
+        <file>images/cross.gif</file>
+        <file>images/not.gif</file>
+        <file>images/blank.gif</file>
+    </qresource>
+</RCC>

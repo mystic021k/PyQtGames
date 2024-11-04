@@ -1,0 +1,9 @@
+{
+    "files": [
+        "qhpwidget.py",
+        "form.ui",
+        "hpengine.py",
+        "qhpcellview.py",
+        "hpres.qrc"
+    ]
+}

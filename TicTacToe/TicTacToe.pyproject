@@ -1,0 +1,9 @@
+{
+    "files": [
+        "qtttwidget.py",
+        "form.ui",
+        "tttengine.py",
+        "tttres.qrc",
+        "qtttcellview.py"
+    ]
+}
